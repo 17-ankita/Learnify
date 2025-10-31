@@ -1,2 +1,19 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+type,question,options,answer
+Multiple Choice,"What does CPU stand for?","{""A"":""Central Processing Unit"",""B"":""Computer Personal Unit"",""C"":""Central Power Unit"",""D"":""Control Processing Utility""}",A
+Multiple Choice,"Which of the following is an example of an input device?","{""A"":""Monitor"",""B"":""Printer"",""C"":""Keyboard"",""D"":""Speaker""}",C
+True or False,"Python is a compiled language.","{""A"":""True"",""B"":""False""}",False
+Fill in the Blank,"The _______ is the brain of the computer.","{}",CPU
+Multiple Choice,"Which company developed the Windows Operating System?","{""A"":""Google"",""B"":""Microsoft"",""C"":""Apple"",""D"":""IBM""}",B
+Multiple Choice,"Which of these is not a programming language?","{""A"":""HTML"",""B"":""Python"",""C"":""C++"",""D"":""Java""}",A
+True or False,"SSDs are faster than HDDs.","{""A"":""True"",""B"":""False""}",True
+Multiple Choice,"What does RAM stand for?","{""A"":""Read Access Memory"",""B"":""Random Access Memory"",""C"":""Run All Memory"",""D"":""Rapid Access Module""}",B
+Multiple Choice,"Which of the following is an example of open-source software?","{""A"":""Microsoft Office"",""B"":""Adobe Photoshop"",""C"":""Linux"",""D"":""CorelDraw""}",C
+True or False,"HTML is used for structuring web pages.","{""A"":""True"",""B"":""False""}",True
+Fill in the Blank,"The primary function of an operating system is to manage computer _______.","{}",resources
+Multiple Choice,"Which of these is a type of malware?","{""A"":""Firewall"",""B"":""Antivirus"",""C"":""Trojan Horse"",""D"":""VPN""}",C
+Multiple Choice,"What is the main purpose of a firewall?","{""A"":""To store data"",""B"":""To protect against unauthorized access"",""C"":""To speed up internet connection"",""D"":""To manage files""}",B
+True or False,"Cloud computing allows for data storage on remote servers.","{""A"":""True"",""B"":""False""}",True
+Fill in the Blank,"A _______ is a network that covers a small geographic area, like a home or office.","{}",LAN
+Multiple Choice,"Which programming language is primarily used for web development?","{""A"":""Python"",""B"":""JavaScript"",""C"":""C#"",""D"":""Ruby""}",B
+Multiple Choice,"What does HTML stand for?","{""A"":""HyperText Markup Language"",""B"":""HighText Machine Language"",""C"":""Hyperlink and Text Markup Language"",""D"":""Home Tool Markup Language""}",A
+True or False,"An IP address is a unique identifier for a device on a network.","{""A"":""True"",""B"":""False""}",True
